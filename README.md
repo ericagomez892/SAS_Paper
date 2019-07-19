@@ -18,7 +18,7 @@ Looking to add the following contents:
 
 -Legislative_Policies (Google search: Best 2 Legislative Policies to fix school to prison pipeline, enter in a few as categorical variables, i.e. (death_penalty=0, 1) private prisons = (0,1) ,
 
--Department of Education Data by state: High School Graduation Rate by year, Juvenile delinquency rate,
+-Department of Education Data by state (USE NCIS Website): High School Graduation Rate by year, Juvenile delinquency rate,
 
 Poverty Data by state: rate of homelessness, (To be uploaded by Erica soon)
 -Health Data: See CDC website - https://www.cdc.gov/nchs/hus/contents2017.htm?search=Functional_limitation, To be Continued...
