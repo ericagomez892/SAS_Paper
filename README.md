@@ -12,7 +12,7 @@ Figure1: Include scatter plot of (x,y)= (time, High_Inc), overlaying Low_Inc=(Lo
 
 Looking to add the following contents:
 
--Municipal_Budget data by Best and Worst state (Lowest incarceration vs. Highest incarceration vs. Federal, Average), could classify obis of all states into H, M, and L if we miraculously got it for every state, but not looking to spend that long...)
+-Budget_data by Best and Worst state (Lowest incarceration vs. Highest incarceration vs. Federal, Average), could classify obis of all states into H, M, and L if we miraculously got it for every state, but not looking to spend that long...)
 
 --Municipal_Budget Predictor variables of interest: (Obtain using municipal budget data: income statement, Higher_Ed_funding/Total_Revenue, Secondary_Ed_funding/Total_Revenue, Early_Education_Funding/Total_Revenue
 
